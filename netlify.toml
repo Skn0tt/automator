@@ -1,0 +1,7 @@
+[build]
+functions = "functions"
+
+[[redirects]]
+from = "/*"
+to = "https://github.com/skn0tt/automator"
+status = 301
